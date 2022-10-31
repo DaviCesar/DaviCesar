@@ -12,8 +12,6 @@ C#, possuo experiência no suporte a usuários de tecnologia de algumas empresas
  <div>
   <a href="https://github.com/andeen171">
   <img height="190px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api?username=DaviCesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="190px" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviCesar&layout=compact&theme=dark&langs_count=8&"/>
- </a>
  <img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaviCesar&layout=compact&theme=dark&langs_count=8"/>
 </div>
   <br>

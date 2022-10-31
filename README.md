@@ -15,6 +15,5 @@ C#, possuo experiência no suporte a usuários de tecnologia de algumas empresas
    <img height="190px" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviCesar&layout=compact&theme=dark&langs_count=8&"/>
  </a>
  <img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaviCesar&layout=compact&theme=dark&langs_count=8"/>
- <img height="185px" width="350px" align="center" src="https://cdn.discordapp.com/attachments/902981234618167356/976816999135068230/4828480a6d11e580a7e814fdd2d50d5f_2.gif" />
 </div>
   <br>

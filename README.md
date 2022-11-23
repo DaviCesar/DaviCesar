@@ -8,7 +8,7 @@ arquiteturas de infraestrutura. Realizei alguns cursos de programação e
 desenvolvimento de soluções com bancos de dados MySQL e linguagens Phyton e
 C#, possuo experiência no suporte a usuários de tecnologia de algumas empresas.
   
- <img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaviCesar&layout=compact&theme=dark&langs_count=8"/>
-  <img height="190px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api?username=DaviCesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaviCesar&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="190px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api?username=DaviCesar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <br>
